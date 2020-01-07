@@ -1,0 +1,11 @@
+Package: TetraQTLAnalysis
+Type: Package
+Title: QTL analysis for autotetraploid species
+Version: 1.0
+Date: 2018-12-13
+Author: Jing Chen
+Maintainer: Jing Chen <jchenviolet@gmail.com>
+Description: A package for QTL analysis in autotetraploids, includes heritability estimation, trait segregation analysis (detection of major QTL), orthogonal contrasts based genetics model, interval mapping method.
+License: GPL-2
+NeedsCompilation: yes
+Packaged: 2019-01-18 12:06:17 UTC; leachlj-admin

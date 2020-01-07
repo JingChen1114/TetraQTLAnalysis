@@ -1,0 +1,12 @@
+useDynLib(TetraQTLAnalysis)
+
+importFrom("graphics", "plot","hist","lines")
+importFrom("stats", "kmeans","na.omit","pchisq","var","quantile")
+
+export(OrthogonalModel)
+export(Heritability)
+export(TraitSeg)
+export(BvMethod)
+export(QvMethod)
+export(BvThreshold)
+export(QvThreshold)
